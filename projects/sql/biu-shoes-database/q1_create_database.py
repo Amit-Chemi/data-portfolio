@@ -8,11 +8,10 @@ if __name__ == '__main__':
     port=3307,
 )
     cursor=mydb.cursor ()
-    cursor.execute ("""
     # Creation of the db.
+    cursor.execute ("""
     CREATE DATABASE 'biu_shoes';
     """)
-    # !!! Commit the transaction to save the changes to the database !!!
     mydb.commit ()
     cursor.close ()
     mydb.close ()
