@@ -14,7 +14,7 @@ if __name__ == '__main__':
     SELECT sh.shoe_name, COUNT(ss.size_id) AS size_count
     FROM shoe AS sh
         LEFT JOIN shoe_size AS ss ON sh.shoe_id = ss.shoe_id
-        # Left join because we also need all shoes include those without size.
+        -- Left join because we also need all shoes include those without size.
     GROUP BY sh.shoe_id
     ORDER BY size_count ASC;
     """)
