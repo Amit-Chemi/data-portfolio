@@ -1,0 +1,14 @@
+biu-shoes-database/
+├─ README.md
+├─ q1_create_database.py
+├─ q2_create_tables.py
+├─ q3_insert_data.py
+├─ q4_alter_size_table.py
+├─ q5_alter_upcoming_table.py
+├─ q6_update_uk_sizes.py
+├─ q7_revenue_by_customer.py
+├─ q8_avg_price_by_size.py
+├─ q9_size_availability.py
+├─ q10_inventory_upcoming_union.py
+├─ q11_sales_summary_view.py
+├─ q12_unsold_shoes.py
