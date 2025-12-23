@@ -61,7 +61,7 @@ if __name__ == '__main__':
     (18, 'Tokyo', 6), (19, 'Osaka', 6), (20, 'Kyoto', 6), 
     (21, 'Sydney', 7), (22, 'Melbourne', 7), (23, 'Brisbane', 7),
     (24, 'Rome', 8), (25, 'Milan', 8), (26, 'Naples', 8), (27, 'Madrid', 9), 
-    (28, 'Barcelona', 9), (29, 'Seville', 9), (30, 'Rio de Janeiro', 10), (31, 'S~ao Paulo', 10), (32, 'Brasilia', 10);
+    (28, 'Barcelona', 9), (29, 'Seville', 9), (30, 'Rio de Janeiro', 10), (31, 'São Paulo', 10), (32, 'Brasilia', 10);
     """)  
 
     # Inserting data into customer table.
