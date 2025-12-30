@@ -10,7 +10,7 @@ if __name__ == '__main__':
     cursor=mydb.cursor ()
     # Creation of the db.
     cursor.execute ("""
-    CREATE DATABASE 'biu_shoes';
+    CREATE DATABASE biu_shoes;
     """)
     mydb.commit ()
     cursor.close ()
