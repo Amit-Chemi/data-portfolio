@@ -2,12 +2,12 @@ import mysql.connector
 
 if __name__ == '__main__':
     mydb = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="root",
-    database="biu_shoes",
-    port=3307,
-)
+        host="localhost",
+        user="root",
+        password="root",
+        database="biu_shoes",
+        port=3307,
+    )
     cursor=mydb.cursor ()
     # Adding Pre-order Available column into upcoming table.
     cursor.execute ("""
