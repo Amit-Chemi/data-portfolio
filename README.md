@@ -1,36 +1,34 @@
 Hi, I’m Amit Chemi 👋
 
-I’m a B.Sc. student in Industrial Engineering & Information Systems at Bar-Ilan University, focused on data analysis,
-business intelligence, and building structured, data-driven solutions.
+I’m a B.Sc. student in Industrial Engineering & Information Systems at Bar-Ilan University.
 
-I’m developing strong foundations in SQL, Python, and analytical problem-solving, and looking
-for a junior Data / BI / Business Analyst role in a product-driven or operational environment.
+I focus on data analysis, working with databases, and understanding how data supports real systems.
+Right now I’m building practical skills in SQL, Python, and problem-solving, and looking for a student position as a Data Analyst or Product Manager.
 
-🔍 Interests
-- Data analysis and business intelligence
-- Turning data into actionable insights
-- Product and business operations
-- Process optimization and decision-making
+🔍 What I’m interested in
+Working with data and understanding how it behaves
+Finding patterns and inconsistencies
+Improving processes using data
+Connecting data to product and business decisions
 
 🛠 Skills & Tools
-- SQL: joins, aggregations, structured queries
-- Python: data-oriented usage (pandas, NumPy – academic projects)
-- Excel: analysis, organization, reporting
-- C++: logical problem-solving and structured programming
-- Strong analytical thinking and attention to detail
+SQL: joins, aggregations, writing structured queries
+Python: pandas, NumPy (mainly for data work)
+Excel: analysis, organization, basic reporting
+C++: structured programming and logic
 
 📂 Projects
-This repository includes academic and personal projects demonstrating:
-- Practical SQL data analysis
-- Logical and structured programming in C++
-- Clear problem-solving and documentation
+This repository includes academic and personal projects where I:
+Analyze data using SQL
+Solve problems with C++
+Work through structured tasks step by step
 
-Each project includes a README explaining the goal, approach, and key learnings.
+Each project includes a short README explaining what I did and how I approached it.
 
 🎓 Background
-- B.Sc. in Industrial Engineering & Information Systems
-- Strong analytical mindset and fast learner
-- Extensive reserve service, building responsibility, discipline, and performance under pressure
+B.Sc. in Industrial Engineering & Information Systems
+Experience working in structured, detail-heavy environments
+Completed over 300 days of reserve service
 
 📫 Contact
 LinkedIn: https://www.linkedin.com/in/amit-chemi
