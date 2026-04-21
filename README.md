@@ -1,35 +1,31 @@
-Hi, I’m Amit Chemi 👋
+# Hi, I’m Amit Chemi 👋
 
-I’m a B.Sc. student in Industrial Engineering & Information Systems at Bar-Ilan University.
+I’m an Industrial Engineering & Information Systems student at Bar-Ilan University, focused on business analysis and data-driven decision making.
 
-I focus on data analysis, working with databases, and understanding how data supports real systems.
-Right now I’m building practical skills in SQL, Python, and problem-solving, and looking for a student position as a Data Analyst or Product Manager.
+I work with data to identify bottlenecks, evaluate trade-offs, and support real-world business and product decisions. My experience comes from hands-on work in complex, cross-functional projects, where I translate data and constraints into structured actions.
 
-🔍 What I’m interested in
-Working with data and understanding how it behaves,
-Finding patterns and inconsistencies,
-Improving processes using data,
-Connecting data to product and business decisions
+I’m currently looking for a Business Analyst student position where I can contribute to product and operational decisions through data analysis.
 
-🛠 Skills & Tools
-SQL: joins, aggregations, writing structured queries,
-Python: pandas, NumPy (mainly for data work),
-Excel: analysis, organization, basic reporting,
-C++: structured programming and logic
+### 🔍 What I focus on
 
-📂 Projects
-This repository includes academic and personal projects where I:
-Analyze data using SQL,
-Solve problems with C++,
-Work through structured tasks step by step,
+* **Decision Support:** Using data to prioritize actions, reduce risks, and improve planning.
+* **User & Product Thinking:** Understanding how user behavior and system constraints impact product performance.
+* **Business Analysis:** Breaking down complex problems into measurable components and actionable insights.
 
-Each project includes a short README explaining what I did and how I approached it.
+### 🛠 Skills & Tools
 
-🎓 Background
-B.Sc. in Industrial Engineering & Information Systems
-Experience working in structured, detail-heavy environments
-Completed over 300 days of reserve service
+* **Data Analytics & BI:** SQL (joins, aggregations, schema design), Python (Pandas, NumPy), Excel (advanced formulas, pivot tables).
+* **Business Analysis:** KPI tracking, bottleneck identification, workflow analysis, decision support.
+* **Technical Foundations:** C++, OOP, data structures, relational database design.
+* **AI & Automation:** Using generative AI tools to accelerate data analysis and workflow efficiency.
 
-📫 Contact
-LinkedIn: https://www.linkedin.com/in/amit-chemi
-Email: chemiamit@gmail.com
+### 🎓 Background
+
+* B.Sc. in Industrial Engineering & Information Systems (2nd year)
+* Experience working in a cross-functional engineering team, analyzing timelines, constraints, and operational trade-offs
+* 350+ days of reserve service, operating in high-pressure environments requiring structured decision-making
+
+### 📫 Contact
+
+* LinkedIn: https://www.linkedin.com/in/amit-chemi
+* Email: [chemiamit@gmail.com](mailto:chemiamit@gmail.com)
