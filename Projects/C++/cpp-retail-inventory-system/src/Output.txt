@@ -1,0 +1,114 @@
+--- SuperShop Menu ---
+1. Print store details
+2. Change advertising factor
+3. Calculate total price
+4. Add products
+5. Exit
+Choose an option: 4
+
+--- Adding a New Product ---
+Enter a product serial number (or type -1 to stop and return to menu): 76543
+Enter row (single upper case character, e.g., A): B
+Enter shelf (number between 1-5): 3
+Enter quantity (number): 70
+Enter type (1 = Agricultural, 2 = Package, 3 = Dairy): 1
+Enter area code (1 = hidden, 2 = medium exposure, 3 = high exposure): 2
+Enter agricultural product name (1 word): hasa
+Enter kind (1 = Vegetable, 2 = Fruit): 1
+Enter number of seasons: 2
+Enter number of suppliers: 2
+Enter number of vitamins: 25
+
+ Product added successfully!
+
+--- Adding a New Product ---
+Enter a product serial number (or type -1 to stop and return to menu): 76543
+Error: Product with this serial already exists! Please try a different serial number.
+
+--- Adding a New Product ---
+Enter a product serial number (or type -1 to stop and return to menu): 45633
+Enter row (single upper case character, e.g., A): b
+Error: row must be between A-Z! Please try again.
+
+--- Adding a New Product ---
+Enter a product serial number (or type -1 to stop and return to menu): 65789
+Enter row (single upper case character, e.g., A): G
+Enter shelf (number between 1-5): 7
+Error: shelf must be between 1-5! Please try again.
+
+--- Adding a New Product ---
+Enter a product serial number (or type -1 to stop and return to menu): 65432
+Enter row (single upper case character, e.g., A): Y
+Enter shelf (number between 1-5): 2
+Enter quantity (number): 120
+Enter type (1 = Agricultural, 2 = Package, 3 = Dairy): 3
+Enter area code (1 = hidden, 2 = medium exposure, 3 = high exposure): 9
+Error: area must be between 1-3! Please try again.
+
+--- Adding a New Product ---
+Enter a product serial number (or type -1 to stop and return to menu): 45633
+Enter row (single upper case character, e.g., A): T
+Enter shelf (number between 1-5): 3
+Enter quantity (number): 20
+Enter type (1 = Agricultural, 2 = Package, 3 = Dairy): 1
+Enter area code (1 = hidden, 2 = medium exposure, 3 = high exposure): 2
+Enter agricultural product name (1 word): tapuz
+Enter kind (1 = Vegetable, 2 = Fruit): 2
+Enter number of seasons: 1
+Enter number of suppliers: 5
+Enter sugar amount: 35
+
+ Product added successfully!
+
+--- Adding a New Product ---
+Enter a product serial number (or type -1 to stop and return to menu): 56789
+Enter row (single upper case character, e.g., A): G
+Enter shelf (number between 1-5): 2
+Enter quantity (number): 88
+Enter type (1 = Agricultural, 2 = Package, 3 = Dairy): 2
+Enter area code (1 = hidden, 2 = medium exposure, 3 = high exposure): 1
+Enter product names in the package (separated by space).
+When you are done, type the TOTAL NUMBER of the products to stop: milki gezer haliot pizza 4
+Enter number of colors in package design: 2
+
+ Product added successfully!
+
+--- Adding a New Product ---
+Enter a product serial number (or type -1 to stop and return to menu): -1
+
+--- SuperShop Menu ---
+1. Print store details
+2. Change advertising factor
+3. Calculate total price
+4. Add products
+5. Exit
+Choose an option: 1
+
+--- Store Details ---
+SuperShop 3 3
+76543 B 3 (70,1,2) hasa (1,2,2) (25)
+45633 T 3 (20,1,2) tapuz (1,1,5) (35)
+56789 G 2 (88,2,1)  milki, gezer, haliot, pizza (4,2)
+
+--- SuperShop Menu ---
+1. Print store details
+2. Change advertising factor
+3. Calculate total price
+4. Add products
+5. Exit
+Choose an option: 3
+
+Total expected price: 7437.17
+
+--- SuperShop Menu ---
+1. Print store details
+2. Change advertising factor
+3. Calculate total price
+4. Add products
+5. Exit
+Choose an option: 5
+Exiting system. Goodbye!
+
+C:\Users\chemi\OneDrive\??????\University\OOP\SuperMarketSystem\x64\Debug\SuperMarketSystem.exe (process 25264) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
