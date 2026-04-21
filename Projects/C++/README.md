@@ -14,11 +14,11 @@ This directory contains projects that demonstrate my ability to model real-world
 
 ## 📂 Projects in this Directory
 
-* **[Retail Inventory Management System](./cpp-retail-inventory-system)**
+* **[Retail Inventory Management System](./Projects/C++/Retail Inventory Management System)**
   * *Focus:* Polymorphism, Deep Inheritance Trees, and Dynamic Pricing Engines.
   * *Highlights:* Designed a comprehensive supermarket backend using a multi-level inheritance hierarchy (Products $\rightarrow$ Dairy/Agricultural $\rightarrow$ Cheese/Fruit). Leveraged polymorphic pointers to calculate dynamic pricing formulas across heterogeneous data structures.
 
-* **[Calendar & Date Management System](./cpp-calendar-system)**
+* **[Calendar & Date Management System](./Projects/C++/Calendar & Date Management System)**
   * *Focus:* Memory Management, Exception Handling (`try-catch`), and Class Aggregation.
   * *Highlights:* Engineered a robust `Calendar` object that manages an array of custom `MyDate` objects, featuring memory-safe dynamic strings and strict date validation logic.
 

@@ -19,7 +19,7 @@ This directory contains hands-on projects demonstrating my ability to design rel
 
 ## 📂 Projects in this Directory
 
-* **[BIU Shoes: Retail Database Architecture & Analysis](./BIU-Shoes-Project)**
+* **[BIU Shoes: Retail Database Architecture & Analysis](./Projects/SQL/BIU Shoes: Retail Database Architecture & Analysis)**
   * *Focus:* Relational database design, inventory tracking, revenue analysis, and identifying operational bottlenecks.
   * *Highlights:* Full construction of a 10-table relational database and execution of complex queries linking global logistics, customers, and product inventory.
 
