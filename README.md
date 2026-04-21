@@ -12,7 +12,7 @@ I’m currently looking for a **Business Analyst** student position where I can 
 * **Business Analysis:** Breaking down complex problems into measurable components and actionable insights.
 
 ### 🛠 Skills & Tools
-* **Data Analytics & BI:** SQL (joins, aggregations, schema design), Python (Pandas, NumPy), Excel (advanced formulas, pivot tables).
+* **Data Analytics & BI:** SQL (joins, aggregations, schema design), Python (Pandas, NumPy).
 * **Business Analysis:** KPI tracking, bottleneck identification, workflow analysis, decision support.
 * **Technical Foundations:** C++, OOP, data structures, relational database design.
 * **AI & Automation:** Using generative AI tools to accelerate data analysis and workflow efficiency.
